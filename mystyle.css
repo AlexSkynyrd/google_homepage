@@ -1,0 +1,36 @@
+.center {
+    margin: auto;
+    padding: 10px;  
+}
+.search-bar{
+    margin-top: 8px;
+    height: 44px;
+    width: 582px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    padding: 0px 14px 0px 40px;
+    background: #fefefe;
+    background-image: none;
+    font: 400 16px arial;
+    user-select: none;
+    outline: none;
+    background: url('./img/search-50.png');
+    background-repeat: no-repeat;
+    background-position: 12px 12px;
+    background-size: 18px;
+}
+.buttons {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+}
+.goog-cen{
+    width: 272px;
+    height: 324px;
+    padding-top: 192px;
+}
+
+.goog-cen img {
+    width: 272px;
+    height: 92px;
+}
